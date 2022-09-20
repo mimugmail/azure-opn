@@ -289,7 +289,7 @@
   <interfaces>
     <lan>
       <enable>1</enable>
-      <if>vtnet0</if>
+      <if>hn0</if>
       <ipaddr>dhcp</ipaddr>
       <subnet/>
       <ipaddrv6/>
